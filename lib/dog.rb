@@ -20,7 +20,8 @@ class Dog
 
 fido = Dog.new
 fido.name = "Fido"
-snoopy = 
+snoopy = Dog.new
+snoopy.breed = "Beagle"
 
 end
 
