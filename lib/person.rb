@@ -18,5 +18,7 @@ class Person
     @job
   end
 
+beyonce = Person.new
+beyonce.name = "Beyonce"
 
 end
