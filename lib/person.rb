@@ -20,6 +20,7 @@ class Person
 
 beyonce = Person.new
 beyonce.name = "Beyonce"
-
+beyonce = Person.new
+beyonce.job = "Singer"
 
 end
